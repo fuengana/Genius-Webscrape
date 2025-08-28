@@ -11,14 +11,12 @@ Taylor Swift has transformed from a small-town country artist to a ten-time Gram
 
 The central goal of this project was to analyze how Swift’s lyrics have evolved in terms of **sentiment** (positive vs. negative) and **subjectivity** (personal and emotional vs. objective and general). To contextualize these findings, Selena Gomez—a fellow pop star with a less scandal-focused public image—was chosen as a point of comparison.
 
----
 
 ## Hypothesis
 
 - **Taylor Swift**: Lyrics may show greater personal subjectivity and fluctuating sentiment reflecting her public experiences.  
 - **Selena Gomez**: Lyrics may lean toward more objective themes with a more consistently positive sentiment.
 
----
 
 ## Methods
 
@@ -26,7 +24,6 @@ The central goal of this project was to analyze how Swift’s lyrics have evolve
 - **Data Storage**: All lyric data was stored in `.json` and `.csv` files included in this repository.  
 - **Analysis**: Sentiment analysis was performed to measure polarity (positive vs. negative) and subjectivity (personal vs. objective).
 
----
 
 ## Repository Contents
 
@@ -35,7 +32,6 @@ The central goal of this project was to analyze how Swift’s lyrics have evolve
 - `src/` – Python scripts for scraping, preprocessing, and analysis.  
 - `results/` – Output plots and tables generated during the project.
 
----
 
 ## Technologies Used
 
@@ -45,7 +41,6 @@ The central goal of this project was to analyze how Swift’s lyrics have evolve
 - **LyricGenius API** (data collection)  
 - **Matplotlib / Seaborn** (visualization)  
 
----
 
 ## Conclusion
 
