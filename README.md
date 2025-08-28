@@ -1,5 +1,5 @@
 
-![screenshot](Genius-Webscrape/screenshot.png)
+![screenshot](/screenshot.png)
 
 # Genius Webscrape - A Sentiment Analysis of Taylor Swift versus Selena Gomez
 
