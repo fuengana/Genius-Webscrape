@@ -11,6 +11,7 @@ Taylor Swift has transformed from a small-town country artist to a ten-time Gram
 
 The central goal of this project was to analyze how Swift’s lyrics have evolved in terms of **sentiment** (positive vs. negative) and **subjectivity** (personal and emotional vs. objective and general). To contextualize these findings, Selena Gomez—a fellow pop star with a less scandal-focused public image—was chosen as a point of comparison.
 
+![Bad Blood](/Taylor_Swift.gif)
 
 ## Hypothesis
 
